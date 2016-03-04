@@ -1,0 +1,5 @@
+pane	1	1	:~/Desktop/fab	1	:*Z	1	:/Users/addingtonjd/Desktop/fab	1	ssh	:ssh addingtonjd@ehslocvld01
+pane	1	1	:~/Desktop/fab	1	:*Z	2	:/Users/addingtonjd/Desktop/fab	0	ssh	:ssh addingtonjd@ehslocvld01
+pane	1	1	:~/Desktop/fab	1	:*Z	3	:/Users/addingtonjd/Desktop/fab	0	zsh	:
+window	1	1	1	:*Z	32da,172x38,0,0{100x38,0,0,1,71x38,101,0[71x19,101,0,3,71x18,101,20,7]}
+state	1	

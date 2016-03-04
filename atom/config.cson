@@ -1,0 +1,40 @@
+"*":
+  "atom-beautify":
+    _analyticsUserId: "10c040c4-c895-4625-82e7-e51f344142e3"
+  "base16-syntax":
+    scheme: "Darktooth"
+  core:
+    audioBeep: false
+    ignoredNames: [
+      ".git"
+      ".DS_Store"
+      "*.pyc"
+      "*.log"
+      "public"
+    ]
+    themes: [
+      "atom-material-ui"
+      "gruvbox"
+    ]
+  editor:
+    invisibles: {}
+    tabLength: 4
+  "exception-reporting":
+    userId: "9fe71638-080e-5021-7665-93716120a450"
+  linter:
+    showErrorInline: false
+  "linter-eslint": {}
+  "linter-flake8": {}
+  "linter-flow":
+    enableAll: true
+  minimap:
+    plugins:
+      "git-diff": true
+  react: {}
+  "tree-view":
+    hideIgnoredNames: true
+    hideVcsIgnoredFiles: true
+  "vim-mode":
+    startInInsertMode: true
+  welcome:
+    showOnStartup: false

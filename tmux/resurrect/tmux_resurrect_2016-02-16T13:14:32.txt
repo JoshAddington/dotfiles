@@ -1,0 +1,4 @@
+pane	1	1	:~/Desktop/fab	1	:*	1	:/Users/addingtonjd/Desktop/fab	0	ssh	:ssh addingtonjd@ehslocvld01
+pane	1	1	:~/Desktop/fab	1	:*	2	:/Users/addingtonjd/Desktop/fab	1	ssh	:ssh addingtonjd@ehslocvld01
+window	1	1	1	:*	56d3,152x38,0,0{82x38,0,0,1,69x38,83,0,3}
+state	1	

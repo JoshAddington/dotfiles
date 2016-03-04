@@ -1,0 +1,4 @@
+pane	0	1	:..e/loc/project	1	:*	1	:/Users/addingtonjd/Code/loc/project	1	zsh	:
+pane	0	1	:..e/loc/project	1	:*	2	:/Users/addingtonjd/Code/loc/project	0	python	:python manage.py runserver
+window	0	1	1	:*	72bf,204x54,0,0{102x54,0,0,1,101x54,103,0,2}
+state	0	

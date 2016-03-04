@@ -1,0 +1,20 @@
+# Keybindings require three things to be fully defined: A selector that is
+# matched against the focused element, the keystroke and the command to
+# execute.
+#
+# Below is a basic keybinding which registers on all platforms by applying to
+# the root workspace element.
+
+# For more detailed documentation see
+# https://atom.io/docs/latest/behind-atom-keymaps-in-depth
+'atom-text-editor[data-grammar="text html php"]:not([mini])':
+  'tab': 'emmet:expand-abbreviation-with-tab'
+
+'atom-text-editor:not([mini])':
+  'shift-space': 'emmet:expand-abbreviation'
+
+'atom-text-editor.autocomplete-active:not([mini])':
+  'tab': 'autocomplete-plus:confirm'
+
+'.pane .editor:not(.mini)':
+  'tab': 'snippets:expand'
