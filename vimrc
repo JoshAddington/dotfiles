@@ -1,5 +1,5 @@
 
-call plug#begin()
+call plug#begin('~/.vim/plugged')
 Plug 'tpope/vim-sensible'
 Plug 'scrooloose/nerdtree'
 Plug 'scrooloose/syntastic'
@@ -10,15 +10,23 @@ Plug 'flazz/vim-colorschemes'
 Plug 'jmcantrell/vim-virtualenv'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
+Plug 'luochen1990/rainbow'
+Plug 'elixir-lang/vim-elixir'
 call plug#end()
 
 set background=dark
 colorscheme vim-gruvbox
+let g:rainbow_active = 1
 
 set number      "show line numbers
-
 set wrap        "dont wrap lines
 set linebreak   "wrap lines at convenient points
+
+" More easily return to normal mode
+imap jk <ESC>
+
+" Set Leader to spacebar
+let mapleader = '\<Space>'
 
 " turn on syntax highlighting
 syntax on
