@@ -1,0 +1,97 @@
+"*":
+  "atom-beautify":
+    apex: {}
+    arduino: {}
+    c: {}
+    cfml: {}
+    coffeescript: {}
+    cpp: {}
+    cs: {}
+    css: {}
+    d: {}
+    ejs: {}
+    erb: {}
+    fortran: {}
+    general:
+      _analyticsUserId: "10c040c4-c895-4625-82e7-e51f344142e3"
+    gherkin: {}
+    handlebars: {}
+    html: {}
+    jade: {}
+    java: {}
+    js: {}
+    json: {}
+    jsx: {}
+    latex: {}
+    less: {}
+    marko: {}
+    mustache: {}
+    objectivec: {}
+    pawn: {}
+    perl: {}
+    php: {}
+    python:
+      default_beautifier: "yapf"
+    riot: {}
+    ruby: {}
+    rust: {}
+    sass: {}
+    scss: {}
+    spacebars: {}
+    sql: {}
+    svg: {}
+    swig: {}
+    tss: {}
+    twig: {}
+    typescript: {}
+    vala: {}
+    visualforce: {}
+    xml: {}
+    xtemplate: {}
+  "atom-typescript": {}
+  "autocomplete-python": {}
+  "base16-syntax":
+    scheme: "Darktooth"
+  core:
+    audioBeep: false
+    disabledPackages: [
+      "vim-mode"
+    ]
+    ignoredNames: [
+      ".git"
+      ".DS_Store"
+      "*.pyc"
+      "*.log"
+      "public"
+    ]
+    themes: [
+      "atom-material-ui"
+      "gruvbox"
+    ]
+  editor:
+    invisibles: {}
+    tabLength: 4
+  emmet: {}
+  "exception-reporting":
+    userId: "9fe71638-080e-5021-7665-93716120a450"
+  "file-icons": {}
+  "language-babel": {}
+  linter:
+    showErrorInline: false
+  "linter-eslint": {}
+  "linter-flake8": {}
+  "linter-flow":
+    enableAll: true
+  "merge-conflicts": {}
+  minimap:
+    plugins:
+      "git-diff": true
+      "git-diffDecorationsZIndex": 0
+  react: {}
+  "tree-view":
+    hideIgnoredNames: true
+    hideVcsIgnoredFiles: true
+  "vim-mode":
+    useClipboardAsDefaultRegister: false
+  welcome:
+    showOnStartup: false

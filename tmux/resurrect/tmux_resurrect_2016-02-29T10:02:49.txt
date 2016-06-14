@@ -1,4 +1,0 @@
-pane	0	1	:vim	1	:*	1	:/Users/addingtonjd/Code/loc/project	0	python	:python manage.py runserver
-pane	0	1	:vim	1	:*	2	:/Users/addingtonjd/Code/loc/project	1	vim	:vim loc.log
-window	0	1	1	:*	7101,80x23,0,0{40x23,0,0,0,39x23,41,0,1}
-state	0	

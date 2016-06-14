@@ -1,3 +1,0 @@
-pane	0	1	:~/Code/hawc	1	:*	1	:/Users/addingtonjd/Code/hawc	1	zsh	:
-window	0	1	1	:*	cb3d,172x38,0,0,0
-state	0	

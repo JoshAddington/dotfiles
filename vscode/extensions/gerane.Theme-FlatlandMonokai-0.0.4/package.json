@@ -1,0 +1,81 @@
+{
+	"__metadata": {
+		"galleryApiUrl": "https://marketplace.visualstudio.com/_apis/public/gallery",
+		"id": "6bfab4b0-9e4f-4143-9cc2-2cb359d841d8",
+		"publisherId": "a5c25faf-bf60-4941-81b9-9a852b96c5fb",
+		"publisherDisplayName": "gerane",
+		"installCount": 7154,
+		"versions": [
+			{
+				"version": "0.0.4",
+				"date": "2016-04-27T13:53:56.933Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://gerane.gallery.vsassets.io/_apis/public/gallery/publisher/gerane/extension/Theme-FlatlandMonokai/0.0.4/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://gerane.gallery.vsassets.io/_apis/public/gallery/publisher/gerane/extension/Theme-FlatlandMonokai/0.0.4/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.0.3",
+				"date": "2015-11-19T01:48:58.507Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://gerane.gallery.vsassets.io/_apis/public/gallery/publisher/gerane/extension/Theme-FlatlandMonokai/0.0.3/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://gerane.gallery.vsassets.io/_apis/public/gallery/publisher/gerane/extension/Theme-FlatlandMonokai/0.0.3/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.0.2",
+				"date": "2015-11-18T23:48:35.303Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://gerane.gallery.vsassets.io/_apis/public/gallery/publisher/gerane/extension/Theme-FlatlandMonokai/0.0.2/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://gerane.gallery.vsassets.io/_apis/public/gallery/publisher/gerane/extension/Theme-FlatlandMonokai/0.0.2/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.0.1",
+				"date": "2015-11-18T23:35:34.55Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://gerane.gallery.vsassets.io/_apis/public/gallery/publisher/gerane/extension/Theme-FlatlandMonokai/0.0.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://gerane.gallery.vsassets.io/_apis/public/gallery/publisher/gerane/extension/Theme-FlatlandMonokai/0.0.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage/Microsoft.VisualStudio.Code.Manifest"
+			}
+		]
+	},
+	"name": "Theme-FlatlandMonokai",
+	"displayName": "Flatland Monokai Theme",
+	"description": "Flatland Monokai Theme for VS Code based on the TextMate themes.",
+	"version": "0.0.4",
+	"publisher": "gerane",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "icon.png",
+	"homepage": "https://github.com/gerane/VSCode-FlatlandMonokaiTheme/blob/master/gerane.Theme-FlatlandMonokai/README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/gerane/VSCode-FlatlandMonokaiTheme.git"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Flatland Monokai",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Flatland_Monokai.tmTheme"
+			}
+		]
+	}
+}

@@ -53,7 +53,7 @@ plugins=(git python cp django fabricgithub gitignore npm pip postgres virtualenv
 
 # User configuration
 
-export PATH="/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"
+export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin::/opt/X11/bin"
 # export MANPATH="/usr/local/man:$MANPATH"
 
 source $ZSH/oh-my-zsh.sh
@@ -90,9 +90,6 @@ source /usr/local/bin/virtualenvwrapper.sh
 
 # postgres config
 export PATH=$PATH:/Applications/Postgres.app/Contents/Versions/latest/bin
-
-# VSCode terminal launch
-function code () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args $*; }
 
 # Open all merge conflicts in atom, switch out atom w/  vim or sublime
 alias fix="git diff --name-only | uniq | xargs atom"

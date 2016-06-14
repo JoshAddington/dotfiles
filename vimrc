@@ -1,5 +1,7 @@
 
 call plug#begin('~/.vim/plugged')
+Plug 'Valloric/YouCompleteMe'
+Plug 'ternjs/tern_for_vim'
 Plug 'tpope/vim-sensible'
 Plug 'scrooloose/nerdtree'
 Plug 'scrooloose/syntastic'
@@ -10,6 +12,7 @@ Plug 'flazz/vim-colorschemes'
 Plug 'jmcantrell/vim-virtualenv'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
+Plug 'thoughtbot/vim-rspec'
 Plug 'luochen1990/rainbow'
 Plug 'elixir-lang/vim-elixir'
 call plug#end()

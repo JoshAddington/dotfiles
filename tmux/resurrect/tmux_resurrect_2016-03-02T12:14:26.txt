@@ -1,4 +1,0 @@
-pane	0	1	:python	1	:*	1	:/Users/addingtonjd/Code/loc/project/static/js/libs	0	zsh	:
-pane	0	1	:python	1	:*	2	:/Users/addingtonjd/Code/loc/project	1	python	:python manage.py runserver
-window	0	1	1	:*	8517,272x66,0,0{136x66,0,0,0,135x66,137,0,1}
-state	0	
