@@ -1,0 +1,40 @@
+{
+	"__metadata": {
+		"galleryApiUrl": "https://marketplace.visualstudio.com/_apis/public/gallery",
+		"id": "cf96781c-ffbf-4359-9a48-89a941b2cbca",
+		"publisherId": "ebaa77e8-5f1e-4a48-9dda-2deacc9bd4db",
+		"publisherDisplayName": "TwentyChung",
+		"installCount": 1920,
+		"versions": [
+			{
+				"version": "0.0.1",
+				"date": "2015-11-23T08:19:50.11Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://twentychung.gallery.vsassets.io/_apis/public/gallery/publisher/TwentyChung/extension/jsx-snippets/0.0.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://twentychung.gallery.vsassets.io/_apis/public/gallery/publisher/TwentyChung/extension/jsx-snippets/0.0.1/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			}
+		]
+	},
+	"name": "jsx-snippets",
+	"description": "JSX snippets for Visual Studio Code",
+	"version": "0.0.1",
+	"publisher": "TwentyChung",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "jsx",
+				"path": "./snippets/snippets.json"
+			}
+		]
+	}
+}

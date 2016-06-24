@@ -13,7 +13,7 @@
   pf = push --force-with-lease
   st = status
 [core]
-  excludesfile = ~/.gitignore
+	excludesfile = /Users/addingtonjd/.gitignore
   autocrlf = input
 [merge]
   ff = only
@@ -25,3 +25,12 @@
   autosquash = true
 [include]
   path = ~/.gitconfig.local
+[user]
+	name = Josh Addington
+	email = josh.addington@gmail.com
+[difftool "sourcetree"]
+	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
+	path = 
+[mergetool "sourcetree"]
+	cmd = /Applications/SourceTree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
+	trustExitCode = true

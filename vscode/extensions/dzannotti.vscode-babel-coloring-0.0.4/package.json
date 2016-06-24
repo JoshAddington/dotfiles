@@ -1,0 +1,114 @@
+{
+	"__metadata": {
+		"galleryApiUrl": "https://marketplace.visualstudio.com/_apis/public/gallery",
+		"id": "d7b592dd-41c9-4f2b-acf3-055ae65e55c6",
+		"publisherId": "f3764338-6fd9-45d3-be23-3da192e4db4b",
+		"publisherDisplayName": "dzannotti",
+		"installCount": 2984,
+		"versions": [
+			{
+				"version": "0.0.4",
+				"date": "2016-04-07T14:59:36.347Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://dzannotti.gallery.vsassets.io/_apis/public/gallery/publisher/dzannotti/extension/vscode-babel-coloring/0.0.4/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://dzannotti.gallery.vsassets.io/_apis/public/gallery/publisher/dzannotti/extension/vscode-babel-coloring/0.0.4/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.0.3",
+				"date": "2016-04-07T14:55:25.823Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://dzannotti.gallery.vsassets.io/_apis/public/gallery/publisher/dzannotti/extension/vscode-babel-coloring/0.0.3/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://dzannotti.gallery.vsassets.io/_apis/public/gallery/publisher/dzannotti/extension/vscode-babel-coloring/0.0.3/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.0.2",
+				"date": "2016-04-07T02:41:25.187Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://dzannotti.gallery.vsassets.io/_apis/public/gallery/publisher/dzannotti/extension/vscode-babel-coloring/0.0.2/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://dzannotti.gallery.vsassets.io/_apis/public/gallery/publisher/dzannotti/extension/vscode-babel-coloring/0.0.2/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.0.1",
+				"date": "2016-04-07T02:39:10.573Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://dzannotti.gallery.vsassets.io/_apis/public/gallery/publisher/dzannotti/extension/vscode-babel-coloring/0.0.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://dzannotti.gallery.vsassets.io/_apis/public/gallery/publisher/dzannotti/extension/vscode-babel-coloring/0.0.1/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			}
+		]
+	},
+	"name": "vscode-babel-coloring",
+	"displayName": "Babel ES6/ES7",
+	"description": "Adds JS Babel es6/es7 syntax coloring",
+	"version": "0.0.4",
+	"publisher": "dzannotti",
+	"engines": {
+		"vscode": "*"
+	},
+	"categories": [
+		"Languages"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dzannotti/vscode-babel/"
+	},
+	"bugs": "https://github.com/dzannotti/vscode-babel/issues",
+	"links": {
+		"getstarted": {
+			"uri": "https://github.com/dzannotti/vscode-babel/blob/master/README.md"
+		},
+		"support": {
+			"uri": "https://github.com/dzannotti/vscode-babel/issues"
+		}
+	},
+	"icon": "images/babel.png",
+	"galleryBanner": {
+		"color": "#323330",
+		"theme": "dark"
+	},
+	"contributes": {
+		"languages": [
+			{
+				"id": "javascript",
+				"aliases": [
+					"Javascript (Babel)"
+				],
+				"extensions": [
+					".js",
+					".jsx",
+					".es6"
+				],
+				"firstLine": "^#!.*\\bnode",
+				"mimetypes": [
+					"text/javascript"
+				]
+			}
+		],
+		"grammars": [
+			{
+				"language": "javascript",
+				"scopeName": "source.js.jsx",
+				"path": "./syntaxes/Babel Language.json"
+			},
+			{
+				"scopeName": "source.regexp.babel",
+				"path": "./syntaxes/Babel Regex.json"
+			}
+		]
+	}
+}

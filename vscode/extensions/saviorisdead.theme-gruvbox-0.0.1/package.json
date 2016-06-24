@@ -1,0 +1,30 @@
+{
+	"__metadata": {
+		"galleryApiUrl": "https://marketplace.visualstudio.com/_apis/public/gallery",
+		"id": "f0377084-fe49-41b6-b079-d1c9872bf5fe",
+		"downloadUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/theme-gruvbox/0.0.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+		"publisherId": "a0ec41cb-a226-4a46-9c18-0ea1dadd0529",
+		"publisherDisplayName": "saviorisdead",
+		"installCount": 121,
+		"date": "2015-11-23T11:40:52.507Z"
+	},
+	"name": "theme-gruvbox",
+	"description": "Gruvbox theme adaptation for VSCode",
+	"version": "0.0.1",
+	"publisher": "saviorisdead",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Gruvbox",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Gruvbox.tmTheme"
+			}
+		]
+	}
+}

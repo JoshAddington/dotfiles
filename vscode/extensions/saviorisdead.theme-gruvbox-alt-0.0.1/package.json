@@ -1,0 +1,30 @@
+{
+	"__metadata": {
+		"galleryApiUrl": "https://marketplace.visualstudio.com/_apis/public/gallery",
+		"id": "8eb6dc70-73a0-493e-908a-932770011765",
+		"downloadUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/theme-gruvbox-alt/0.0.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+		"publisherId": "a0ec41cb-a226-4a46-9c18-0ea1dadd0529",
+		"publisherDisplayName": "saviorisdead",
+		"installCount": 72,
+		"date": "2015-11-23T11:45:30.277Z"
+	},
+	"name": "theme-gruvbox-alt",
+	"description": "",
+	"version": "0.0.1",
+	"publisher": "saviorisdead",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "gruvbox-alt",
+				"uiTheme": "vs-dark",
+				"path": "./themes/gruvbox.tmTheme"
+			}
+		]
+	}
+}

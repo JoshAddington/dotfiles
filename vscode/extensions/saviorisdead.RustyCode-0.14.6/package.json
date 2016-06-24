@@ -1,0 +1,685 @@
+{
+	"__metadata": {
+		"galleryApiUrl": "https://marketplace.visualstudio.com/_apis/public/gallery",
+		"id": "2dc0c3e9-1d89-4af3-8098-79c39ec7a098",
+		"publisherId": "a0ec41cb-a226-4a46-9c18-0ea1dadd0529",
+		"publisherDisplayName": "saviorisdead",
+		"installCount": 13063,
+		"versions": [
+			{
+				"version": "0.14.6",
+				"date": "2016-05-23T20:55:04.263Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.14.6/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.14.6/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.14.5",
+				"date": "2016-05-19T10:44:34.84Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.14.5/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.14.5/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.14.4",
+				"date": "2016-05-16T08:14:40.787Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.14.4/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.14.4/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.14.3",
+				"date": "2016-05-05T11:36:50.91Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.14.3/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.14.3/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.14.2",
+				"date": "2016-05-04T20:45:56.59Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.14.2/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.14.2/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.14.1",
+				"date": "2016-05-04T08:44:12.117Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.14.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.14.1/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.14.0",
+				"date": "2016-05-03T21:49:18.537Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.14.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.14.0/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.13.1",
+				"date": "2016-05-03T18:32:03.033Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.13.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.13.1/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.13.0",
+				"date": "2016-05-03T15:43:00.61Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.13.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.13.0/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.12.0",
+				"date": "2016-04-22T23:17:24.773Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.12.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.12.0/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.11.0",
+				"date": "2016-02-18T09:38:45.42Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.11.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.11.0/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.10.0",
+				"date": "2016-02-08T15:52:31.633Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.10.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.10.0/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.9.1",
+				"date": "2016-02-02T13:00:06.25Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.9.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.9.1/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.9.0",
+				"date": "2016-01-18T10:50:05.917Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.9.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.9.0/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.8.0",
+				"date": "2016-01-05T19:10:56.84Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.8.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.8.0/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.7.1",
+				"date": "2015-12-30T16:54:38.81Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.7.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.7.1/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.7.0",
+				"date": "2015-12-21T15:38:06.02Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.7.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.7.0/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.6.0",
+				"date": "2015-12-15T14:06:50.697Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.6.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.6.0/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.5.5",
+				"date": "2015-12-15T11:26:29.673Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.5.5/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.5.5/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.5.4",
+				"date": "2015-12-15T07:46:16.203Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.5.4/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.5.4/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.5.3",
+				"date": "2015-12-10T08:38:51.32Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.5.3/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.5.3/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.5.2",
+				"date": "2015-12-06T15:04:37.627Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.5.2/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.5.2/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.5.1",
+				"date": "2015-12-03T11:02:42.127Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.5.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.5.1/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.5.0",
+				"date": "2015-12-03T08:51:33.62Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.5.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.5.0/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.4.4",
+				"date": "2015-11-30T17:59:00.15Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.4.4/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.4.4/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.4.3",
+				"date": "2015-11-30T12:45:48.49Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.4.3/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.4.3/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.4.2",
+				"date": "2015-11-30T10:22:29.223Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.4.2/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.4.2/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.4.1",
+				"date": "2015-11-30T10:11:48.493Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.4.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.4.1/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.4.0",
+				"date": "2015-11-27T15:26:02.387Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.4.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.4.0/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.3.5",
+				"date": "2015-11-24T15:15:51.653Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.3.5/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.3.5/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.3.4",
+				"date": "2015-11-23T23:23:29.33Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.3.4/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.3.4/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.3.3",
+				"date": "2015-11-23T09:08:32.26Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.3.3/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.3.3/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.3.2",
+				"date": "2015-11-22T07:57:27.06Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.3.2/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.3.2/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.3.1",
+				"date": "2015-11-21T17:52:46.093Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.3.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.3.1/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.3.0",
+				"date": "2015-11-21T17:44:40.033Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.3.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.3.0/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.2.0",
+				"date": "2015-11-21T14:29:06.353Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.2.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.2.0/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.1.3",
+				"date": "2015-11-20T16:18:42.8Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.1.3/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.1.3/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.1.2",
+				"date": "2015-11-20T14:52:26.717Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.1.2/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.1.2/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.1.1",
+				"date": "2015-11-20T13:33:06.233Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.1.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.1.1/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.1.0",
+				"date": "2015-11-20T13:26:35.77Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.0",
+					"User-Agent": "VSCode 1.2.0",
+					"X-Market-User-Id": "2c27c32620414c8b8a3a8404a15c0f698f928263f75c2e6cf052003618b2ede7"
+				},
+				"downloadUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.1.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://saviorisdead.gallery.vsassets.io/_apis/public/gallery/publisher/saviorisdead/extension/RustyCode/0.1.0/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			}
+		]
+	},
+	"name": "RustyCode",
+	"displayName": "Rusty Code",
+	"description": "Rust language integration for VSCode",
+	"version": "0.14.6",
+	"publisher": "saviorisdead",
+	"license": "MIT",
+	"icon": "images/icon.png",
+	"homepage": "https://github.com/saviorisdead/RustyCode",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/saviorisdead/RustyCode"
+	},
+	"bugs": {
+		"url": "https://github.com/saviorisdead/RustyCode/issues",
+		"email": "saviorisdead@gmail.com"
+	},
+	"engines": {
+		"vscode": "^1.0.0"
+	},
+	"categories": [
+		"Languages",
+		"Linters"
+	],
+	"activationEvents": [
+		"onLanguage:rust"
+	],
+	"main": "./out/src/extension",
+	"contributes": {
+		"languages": [
+			{
+				"id": "rust",
+				"aliases": [
+					"Rust"
+				],
+				"extensions": [
+					".toml",
+					".rs"
+				]
+			}
+		],
+		"commands": [
+			{
+				"command": "rust.cargo.build.example.debug",
+				"title": "Cargo: Build example, Debug",
+				"description": "Compile the current example"
+			},
+			{
+				"command": "rust.cargo.build.example.release",
+				"title": "Cargo: Build example, Release",
+				"description": "Compile the current example with \"--release\" flag"
+			},
+			{
+				"command": "rust.cargo.run.example.debug",
+				"title": "Cargo: Run example, Debug",
+				"description": "Compile the current example and execute it"
+			},
+			{
+				"command": "rust.cargo.run.example.release",
+				"title": "Cargo: Run example, Release",
+				"description": "Compile the current example with \"--release\" flag and execute it"
+			},
+			{
+				"command": "rust.cargo.build.debug",
+				"title": "Cargo: Build Debug",
+				"description": "Compile the current project"
+			},
+			{
+				"command": "rust.cargo.build.release",
+				"title": "Cargo: Build Release",
+				"description": "Compile the current project with \"--release\" flag"
+			},
+			{
+				"command": "rust.cargo.run.debug",
+				"title": "Cargo: Run Debug",
+				"description": "Build and execute src/main.rs"
+			},
+			{
+				"command": "rust.cargo.run.release",
+				"title": "Cargo: Run Release",
+				"description": "Build with \"--release\" flag and execute src/main.rs"
+			},
+			{
+				"command": "rust.cargo.doc",
+				"title": "Cargo: Doc",
+				"description": "Build this project's and its dependencies' documentation"
+			},
+			{
+				"command": "rust.cargo.test.debug",
+				"title": "Cargo: Test Debug",
+				"description": "Run the tests"
+			},
+			{
+				"command": "rust.cargo.test.release",
+				"title": "Cargo: Test Release",
+				"description": "Run the tests with --release"
+			},
+			{
+				"command": "rust.cargo.bench",
+				"title": "Cargo: Bench",
+				"description": "Run the benchmarks"
+			},
+			{
+				"command": "rust.cargo.update",
+				"title": "Cargo: Update",
+				"description": "Update dependencies listed in Cargo.lock"
+			},
+			{
+				"command": "rust.cargo.clean",
+				"title": "Cargo: Clean",
+				"description": "Remove the target directory"
+			},
+			{
+				"command": "rust.cargo.check",
+				"title": "Cargo: Check",
+				"description": "Check the project for warnings and errors"
+			},
+			{
+				"command": "rust.cargo.terminate",
+				"title": "Cargo: Terminate Running Task",
+				"description": "Terminate currently running cargo task"
+			}
+		],
+		"configuration": {
+			"title": "Rusty Code configuration",
+			"type": "object",
+			"properties": {
+				"rust.racerPath": {
+					"type": [
+						"string",
+						"null"
+					],
+					"default": null,
+					"description": "Specifies path to Racer binary if it's not in PATH"
+				},
+				"rust.rustfmtPath": {
+					"type": [
+						"string",
+						"null"
+					],
+					"default": null,
+					"description": "Specifies path to Rustfmt binary if it's not in PATH"
+				},
+				"rust.rustLangSrcPath": {
+					"type": [
+						"string",
+						"null"
+					],
+					"default": null,
+					"description": "Specifies path to /src directory of local copy of Rust sources"
+				},
+				"rust.cargoPath": {
+					"type": [
+						"string",
+						"null"
+					],
+					"default": null,
+					"description": "Specifies path to Cargo binary if it's not in PATH"
+				},
+				"rust.cargoHomePath": {
+					"type": [
+						"string",
+						"null"
+					],
+					"default": null,
+					"description": "Specifies path to home directory of Cargo. Mostly needed for working with custom installations of Rust via rustup or multirust."
+				},
+				"rust.formatOnSave": {
+					"type": "boolean",
+					"default": false,
+					"description": "Turn on/off autoformatting file on save"
+				},
+				"rust.checkOnSave": {
+					"type": "boolean",
+					"default": false,
+					"description": "Turn on/off autochecking file on save using cargo check"
+				},
+				"rust.checkWith": {
+					"type": "string",
+					"default": "check",
+					"description": "Choose between check, clippy and build to lint"
+				}
+			}
+		},
+		"keybindings": [
+			{
+				"key": "ctrl+shift+b",
+				"command": "rust.cargo.build.debug",
+				"when": "editorLangId == 'rust'"
+			},
+			{
+				"key": "ctrl+shift+t",
+				"command": "rust.cargo.test.debug",
+				"when": "editorLangId == 'rust'"
+			},
+			{
+				"key": "ctrl+shift+r",
+				"command": "rust.cargo.run.debug",
+				"when": "editorLangId == 'rust'"
+			},
+			{
+				"key": "ctrl+shift+alt+b",
+				"command": "rust.cargo.build.release",
+				"when": "editorLangId == 'rust'"
+			},
+			{
+				"key": "ctrl+shift+alt+t",
+				"command": "rust.cargo.test.release",
+				"when": "editorLangId == 'rust'"
+			},
+			{
+				"key": "ctrl+shift+alt+r",
+				"command": "rust.cargo.run.release",
+				"when": "editorLangId == 'rust'"
+			}
+		]
+	},
+	"scripts": {
+		"vscode:prepublish": "node ./node_modules/vscode/bin/compile",
+		"compile": "node ./node_modules/vscode/bin/compile -watch -p ./",
+		"postinstall": "node ./node_modules/vscode/bin/install"
+	},
+	"devDependencies": {
+		"gulp": "^3.9.0",
+		"gulp-shell": "^0.5.1",
+		"gulp-tslint": "^4.1.0",
+		"tslint": "^3.1.1",
+		"typescript": "^1.7.3",
+		"vscode": "^0.11.12"
+	},
+	"dependencies": {
+		"tmp": "0.0.28",
+		"tree-kill": "^1.0.0",
+		"find-up": "^1.1.2"
+	}
+}
